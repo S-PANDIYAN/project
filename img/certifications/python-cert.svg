@@ -1,0 +1,31 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pythonGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3776ab" />
+      <stop offset="100%" style="stop-color:#ffd43b" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Certificate background -->
+  <rect width="300" height="200" fill="white" stroke="#e2e8f0" stroke-width="2" rx="10"/>
+  <rect x="10" y="10" width="280" height="180" fill="url(#pythonGradient)" rx="8" opacity="0.1"/>
+  
+  <!-- Python logo area -->
+  <rect x="20" y="20" width="260" height="40" fill="url(#pythonGradient)" rx="5"/>
+  <text x="150" y="45" text-anchor="middle" font-family="Poppins, sans-serif" font-size="16" font-weight="600" fill="white">PYTHON INSTITUTE</text>
+  
+  <!-- Certificate content -->
+  <text x="150" y="85" text-anchor="middle" font-family="Poppins, sans-serif" font-size="14" font-weight="600" fill="#2d3748">Python Programming</text>
+  <text x="150" y="105" text-anchor="middle" font-family="Poppins, sans-serif" font-size="12" fill="#4a5568">Advanced Certification</text>
+  
+  <!-- Awarded to -->
+  <text x="150" y="130" text-anchor="middle" font-family="Poppins, sans-serif" font-size="10" fill="#718096">Certified Developer</text>
+  <text x="150" y="145" text-anchor="middle" font-family="Poppins, sans-serif" font-size="12" font-weight="600" fill="#2d3748">Pandiyan Shanmugam</text>
+  
+  <!-- Date -->
+  <text x="150" y="170" text-anchor="middle" font-family="Poppins, sans-serif" font-size="10" fill="#718096">Completed 2024</text>
+  
+  <!-- Python logo -->
+  <circle cx="250" cy="160" r="15" fill="#3776ab" opacity="0.8"/>
+  <text x="250" y="166" text-anchor="middle" font-family="Arial" font-size="10" fill="white">🐍</text>
+</svg>

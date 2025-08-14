@@ -1,0 +1,35 @@
+PANDIYAN SHANMUGAM
+Python Developer & Machine Learning Engineer
+
+Contact Information:
+Email: pandiyanshanmugam3105@gmail.com
+LinkedIn: linkedin.com/in/pandiyan-shanmugam
+GitHub: github.com/S-PANDIYAN
+
+EDUCATION:
+Bachelor of Technology in Artificial Intelligence and Machine Learning
+Sri Shakthi Institute of Engineering and Technology (Currently Pursuing)
+
+TECHNICAL SKILLS:
+- Python Programming
+- Django & Flask Frameworks
+- Machine Learning & AI
+- Data Analysis (Pandas, NumPy)
+- Database Management
+- REST API Development
+- Git & Version Control
+
+CERTIFICATIONS:
+- Machine Learning Specialization (Coursera)
+- Intermediate Git (DataCamp)
+- GitHub Concepts (DataCamp)
+
+PROJECTS:
+1. Flask Web Application - Full-stack web app with authentication
+2. Data Analysis Dashboard - Interactive visualization with Streamlit
+3. REST API Service - FastAPI with JWT authentication
+4. AI Chatbot - NLP-based customer support automation
+5. E-commerce Platform - Django-based online retail solution
+6. Task Automation Suite - Python scripts for workflow optimization
+
+Replace this text file with your actual PDF resume.
